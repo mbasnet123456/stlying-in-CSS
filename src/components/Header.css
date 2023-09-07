@@ -1,0 +1,11 @@
+/* Header.css */
+
+.header {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  background-color: #333;
+  color: white;
+  box-sizing: border-box;
+  padding-bottom: 40px;
+}
